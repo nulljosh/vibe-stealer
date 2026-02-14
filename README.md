@@ -2,6 +2,8 @@
 
 Extract design aesthetics (colors, fonts, spacing, shadows) from any website and convert them into reusable design tokens.
 
+![Architecture](architecture.svg)
+
 ## Features
 
 - Scrapes websites using Puppeteer (bypasses JS requirements)
